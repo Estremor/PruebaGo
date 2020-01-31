@@ -1,0 +1,72 @@
+[
+    {
+        "Id": "1",
+        "FirstName": "Alexander",
+        "LastName": "Alvarez",
+        "Score": 2,
+        "Min": 60
+    },
+    {
+        "Id": "2",
+        "FirstName": "Alexander",
+        "LastName": "Alvarez",
+        "Score": 2,
+        "Min": 60
+    },
+    {
+        "Id": "3",
+        "FirstName": "Alexander",
+        "LastName": "Alvarez",
+        "Score": 2,
+        "Min": 60
+    },
+    {
+        "Id": "4",
+        "FirstName": "Alexander",
+        "LastName": "bidals",
+        "Score": 10,
+        "Min": 60
+    },
+    {
+        "Id": "5",
+        "FirstName": "Alexander",
+        "LastName": "marino",
+        "Score": 11,
+        "Min": 60
+    },
+    {
+        "Id": "6",
+        "FirstName": "marta",
+        "LastName": "marino",
+        "Score": 12,
+        "Min": 60
+    },
+    {
+        "Id": "7",
+        "FirstName": "marta",
+        "LastName": "marino",
+        "Score": 13,
+        "Min": 46
+    },
+    {
+        "Id": "8",
+        "FirstName": "maria",
+        "LastName": "marino",
+        "Score": 16,
+        "Min": 44
+    },
+    {
+        "Id": "7",
+        "FirstName": "maria",
+        "LastName": "marino",
+        "Score": 16,
+        "Min": 44
+    },
+    {
+        "Id": "10",
+        "FirstName": "maria",
+        "LastName": "marino",
+        "Score": 16,
+        "Min": 44
+    }
+]
